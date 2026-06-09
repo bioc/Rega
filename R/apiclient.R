@@ -520,7 +520,7 @@ is_valid_http_method <- function(m) {
 #'
 #' @importFrom rlang pairlist2 expr new_function caller_env sym !! !!!
 #' @importFrom httr2 req_method request req_body_json req_perform
-#'   resp_check_status
+#' @importFrom httr2 resp_check_status
 #'
 #' @examples
 #' api <- extract_api()

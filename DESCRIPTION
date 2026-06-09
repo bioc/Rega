@@ -1,6 +1,6 @@
 Package: Rega
 Title: R Interface to European Genome-Phenome Archive
-Version: 1.0.0
+Version: 1.0.1
 Authors@R:
    c(
     person(
@@ -51,4 +51,4 @@ biocViews: Software, Infrastructure, ThirdPartyClient
 Config/testthat/edition: 3
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.3.3
+Config/roxygen2/version: 8.0.0

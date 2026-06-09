@@ -211,7 +211,7 @@ ega_oauth <- function(
 #'   can be retrieved by `token$access_token`
 #'
 #' @importFrom httr2 request req_body_form req_perform resp_body_json
-#'   resp_body_string
+#' @importFrom httr2 resp_body_string
 #'
 #' @examples
 #' try(
